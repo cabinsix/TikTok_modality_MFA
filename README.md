@@ -3,7 +3,7 @@
 ## Variables investigated and their group subdivision
 
 #### Syntactic complexity:
-1-max_clause_embedding;
+1-max_clause_embedding;n\
 2-nonproj_arcs;
 3-nonproj_sent;
 4-implicit_subordinate_clauses;
