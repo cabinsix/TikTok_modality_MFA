@@ -1,5 +1,8 @@
 # TikTok_modality_MFA
 
+This page displays the variables and references for a pilot study on tiktok modality. The study is based upon a UD treebank of 10 tiktok videos (tot. ca. 5000 tokens) of three formats (stitch, answer, storytime), and aims at a first exploration of some characteristics of modality of online spoken italian. 
+
+
 ## Variables investigated and their group subdivision
 
 #### Syntactic complexity:
