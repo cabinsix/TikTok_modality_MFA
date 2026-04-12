@@ -3,72 +3,72 @@
 ## Variables investigated and their group subdivision
 
 #### Syntactic complexity:
-1-max_clause_embedding;n\
-2-nonproj_arcs;
-3-nonproj_sent;
-4-implicit_subordinate_clauses;
-5-implicit_clauses;
-6-total_clauses;
-7-subordinate_clauses;
-8-coordinate_clauses
+1-max_clause_embedding;\
+2-nonproj_arcs;\
+3-nonproj_sent;\
+4-implicit_subordinate_clauses;\
+5-implicit_clauses;\
+6-total_clauses;\
+7-subordinate_clauses;\
+8-coordinate_clauses\\
 * ref. Beaman 1984; Givòn 1991
 
 #### Derivation:
-9-derived_tokens;
-10-derived_nouns;
-11-derived_verbs;
-12-derived_adj;
-13-derived_adv;
-14-suffixed;
-15-prefixed;
-16-parasynthetics;
-17-derived_lemmas;
-18-derived_types;
-19-total_affixes;
-20-demonstratives_det;
-21-demonstratives_pron
+9-derived_tokens;\
+10-derived_nouns;\
+11-derived_verbs;\
+12-derived_adj;\
+13-derived_adv;\
+14-suffixed;\
+15-prefixed;\
+16-parasynthetics;\
+17-derived_lemmas;\
+18-derived_types;\
+19-total_affixes;\
+20-demonstratives_det;\
+21-demonstratives_pron\\
 * ref. Iacobini & Adinolfi (2008)
 
 #### Epistemics:
-22-epistemic_tokens;
-23-epistemic_types
+22-epistemic_tokens;\
+23-epistemic_types\\
 * ref. Coates 1983
 
 #### MDD:
-24-mean_distance_head/dependent
+24-mean_distance_head/dependent\\
 * ref. Zhu 2019; Lintunen & Mäkilä 2014
 
 #### NP high weight:
-25-subj_weight_ii;
-26-subj_weight_i;
-27-obj_weight_ii;
-28-obj_weight_i;
-29-n/obj_weight_ii;
-30-n/obj_weight_i;
+25-subj_weight_ii;\
+26-subj_weight_i;\
+27-obj_weight_ii;\
+28-obj_weight_i;\
+29-n/obj_weight_ii;\
+30-n/obj_weight_i;\\
 * ref. Voghera et al. 2004
 
 #### Unmarked word order:
-31-SV;
-32-VO;
+31-SV;\
+32-VO;\\
 * ref. Voghera et al. 2004;2017
 
 #### Marked word order:
-33-VS;
-34-OV
+33-VS;\
+34-OV\\
 * ref. Voghera et al. 2004;2017
 
 #### Personal pronouns:
-35-pron_1sg;
-36-pron_1pl;
-37-pron_2sg;
-38-pron_2pl;
-39-pron_3sg;
-40-pron_3pl
+35-pron_1sg;\
+36-pron_1pl;\
+37-pron_2sg;\
+38-pron_2pl;v
+39-pron_3sg;\
+40-pron_3pl\\
 * ref. Chafe & Tannen 1987
 
 #### Large scope words:
-41-mean_word_vagueness;
-42-light_verbs
+41-mean_word_vagueness;\
+42-light_verbs\\
 * ref. Voghera 2017;Pisciotta & Masini 2025
 
 ## References
