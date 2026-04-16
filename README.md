@@ -13,7 +13,7 @@ This page displays the variables and references for a pilot study on tiktok moda
 5-implicit_clauses;\
 6-total_clauses;\
 7-subordinate_clauses;\
-8-coordinate_clauses\
+8-coordinate_clauses
 * ref. Beaman 1984; Givòn 1991
 
 #### Derivation:
@@ -29,16 +29,16 @@ This page displays the variables and references for a pilot study on tiktok moda
 18-derived_types;\
 19-total_affixes;\
 20-demonstratives_det;\
-21-demonstratives_pron\
+21-demonstratives_pron
 * ref. Iacobini & Adinolfi (2008)
 
 #### Epistemics:
 22-epistemic_tokens;\
-23-epistemic_types\
+23-epistemic_types
 * ref. Coates 1983
 
 #### MDD:
-24-mean_distance_head/dependent\
+24-mean_distance_head/dependent
 * ref. Zhu 2019; Lintunen & Mäkilä 2014
 
 #### NP high weight:
@@ -47,17 +47,17 @@ This page displays the variables and references for a pilot study on tiktok moda
 27-obj_weight_ii;\
 28-obj_weight_i;\
 29-n/obj_weight_ii;\
-30-n/obj_weight_i;\
+30-n/obj_weight_i;
 * ref. Voghera et al. 2004
 
 #### Unmarked word order:
 31-SV;\
-32-VO;\
+32-VO;
 * ref. Voghera et al. 2004;2017
 
 #### Marked word order:
 33-VS;\
-34-OV\
+34-OV
 * ref. Voghera et al. 2004;2017
 
 #### Personal pronouns:
@@ -66,12 +66,12 @@ This page displays the variables and references for a pilot study on tiktok moda
 37-pron_2sg;\
 38-pron_2pl;\
 39-pron_3sg;\
-40-pron_3pl\
+40-pron_3pl
 * ref. Chafe & Tannen 1987
 
 #### Large scope words:
 41-mean_word_vagueness;\
-42-light_verbs\
+42-light_verbs
 * ref. Voghera 2017;Pisciotta & Masini 2025
 
 ## References
